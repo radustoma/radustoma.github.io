@@ -1,0 +1,237 @@
+<h1>Radu Toma</h1>
+
+<img src="photos/eu.jpg" alt="Radu Toma" width="35%" height="auto" style="float:right;">
+
+<p>
+	I am a fourth-year doctoral student in the <a href = "http://www.math.uni-bonn.de/ag/azaf/">Analytic Number Theory and Automorphic Forms group</a> 
+	at the University of Bonn, under the supervision of <a href = "https://www.math.uni-bonn.de/people/blomer/">Prof. Dr. Valentin Blomer</a>. 
+	I am particularly interested in automorphic forms in higher rank and the sup-norm problem, but also more classical number theory. <br>
+	Starting autumn 2024 I'll be a postdoc in Paris with Farrell Brumley. <br>
+	Here is my <a href="CV/CV-Radu_Toma-24-03.pdf">CV</a>. You can reach me at <br>
+	toma &#128584 math.uni-bonn.de
+</p>
+
+<h2>Publications and preprints</h2>
+
+	<ul>
+		<li>
+			<em>The sup-norm problem for newforms of large level on PGL(n)</em>,<br/>
+			Arxiv preprint: 
+			<a href="https://arxiv.org/abs/2401.02741">
+				https://arxiv.org/abs/2401.02741
+			</a>
+			
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			<em>Hybrid bounds for the sup-norm of automorphic forms in higher rank</em>,<br/>
+			<a href="https://doi.org/10.1090/tran/8921">Trans. Amer. Math. Soc. 376</a> (2023),<br/>
+			Arxiv preprint: 
+			<a href="https://arxiv.org/abs/2111.09923">
+				https://arxiv.org/abs/2111.09923
+			</a>
+			
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			<em>Estimates for representation numbers of binary quadratic forms and Apollonian circle packings</em>,<br/>
+			Journal of Number Theory, vol. 214, September 2020, pp.
+			399&ndash;413,
+			<a href="https://doi.org/10.1016/j.jnt.2020.03.005">
+				doi:10.1016/j.jnt.2020.03.005
+			</a> <br/>
+			[<a href="articole/Estimates-BQFs-ACPs.pdf">
+				preprint
+			</a>]
+		</li>
+	</ul>
+
+<h2>Notes</h2>
+	<ul>
+		<li>
+			<em>Atkin-Lehner operators for GL(n) * now part of my paper The sup-norm problem for newforms of large level on PGL(n)</em>,<br/>
+			This note explains how we may generalise the classical definition of Atkin-Lehner operators to GL(n) for n > 2. In particular, it contains a proof that the normaliser of the Hecke congruence group is trivial for n > 2, a definition for the Fricke involutions, and the (unfortunate) conclusion that there are no other Atkin-Lehner operators in these cases.
+			[<a href="notes/AL-operators.pdf">
+				pdf
+			</a>]
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<em>The spectral theory of automorphic forms on SL(2, Z)</em>,<br/>
+			Part III Essay, University of Cambridge. This essay presents a proof of the spectral theorem for SL(2, Z).
+			[<a href="notes/Essay-Radu-Toma.pdf">
+				pdf
+			</a>]
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<em>The arithmetic of binary quadratic forms</em>,<br/>
+			Bachelor's thesis, Georg-August-Universität Göttingen. This thesis presents the theory of binary quadratic forms with a focus on representation numbers, non-fundamental discriminants, and an application to Apollonian circle packings.
+			[<a href="notes/BA-korrigiert.pdf">
+				pdf
+			</a>]
+		</li>
+	</ul>
+
+Comments and suggestions for any of my writings are very welcome! <br><br>
+
+<h2>Current & Upcoming Activities</h2>
+
+	<ul>
+		<li>
+			Defence 16th of September, 16:00, Großer Hörsaal, Wegelerstr. 10. You can check out my thesis <a href="notes/teza-final-digital.pdf">here</a>.
+		</li>
+	</ul>
+	
+
+<h2>Past Activities</h2>
+	<ul>
+		<li>
+			Workshop <a href="https://sites.google.com/view/distribution-of-orbits-2024/home"> Distribution of orbits: Arithmetics and Dynamics</a> <br/> Switzerland, 8.07 - 12.07.2024
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Organising <a href="https://www.mathematics.uni-bonn.de/bigs/en/news-bigs-1/19-04-24-16-00-smooth-paths-academia-hcm-event-for-phds-and-postdocs">HCM career event</a> for docs and postdocs: April 19th!
+		</li>
+	</ul>
+	
+	<ul>
+		<li>
+			Talk at the Texas A&M Number Theory Seminar <br/> Online, 26.03.2024
+		</li>
+	</ul>	
+
+	<ul>
+		<li>
+			Talk at the Renyi Number Theory Seminar <br/> Budapest, 7.03.2024
+		</li>
+	</ul>	
+
+	<ul>
+		<li>
+			<a href="seminar/equid"> Number theory learning seminar</a> on the modern ergodic method for proving equidistribution results <br/> Uni Bonn, WS23/24
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			Talk at the Copenhagen Number Theory Seminar <br/> Zoom, 11.12.2023
+		</li>
+	</ul>	
+	
+	<ul>
+		<li>
+			Automorphic Forms and L-functions of higher rank <br/> London, 11-15.09.2023
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at Y-RANT <br/> Cambridge, 06-08.09.2023
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			Analysis of Automorphic Forms and L-Functions in Higher Rank <br/>Oberwolfach, 08.05-02.06.2023
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			Talk at <a href="https://www.epfl.ch/labs/tan/arstafant-workshop/"> Arithmetic Statistics in Automorphic Forms and Analytic Number Theory </a> <br/>Lausanne, 05-09.06.2023
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at the <a href="https://math.ethz.ch/news-and-events/events/research-seminars/number-theory-seminar.html?s=hs22">Number theory seminar of ETH Zürich</a>, <br/>Zürich, 28.10.2022
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Research stay at <a href="https://www.epfl.ch/labs/tan/">EPFL, Chair of Analytic Number Theory</a>, <br/>Lausanne, September - December 2022
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at
+			<a href="http://bb5.pmf.unsa.ba/index.php">Building Bridges 5</a>, <br/>Sarajevo, 09.08.2022 <br/>
+			On the sup-norm of automorphic forms in higher rank
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at the
+			<a href="https://fmi.univ-ovidius.ro/cercetare/wyrm2022/">Workshop for Young Researchers in Mathematics</a>, Simion Stoilow  Institute of Mathematics of the Romanian Academy, <br/>online, 05.05.2022 <br/>
+			On the sup-norm of automorphic forms
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk (<a href="https://video.renyi.hu/video/radu-toma-hybrid-sup-norm-bounds-for-automorphic-forms-in-higher-rank-412">recorded</a>) at the
+			<a href="https://www.renyi.hu/en/activities/kutatocsoportok/automorphic-forms?">Renyi Automorphic Forms Seminar</a>, <br/>online, 05.05.2022 <br/>
+			Hybrid bounds for the sup-norm of automorphic forms in higher rank (<a href="talks/Toma-Renyi.pdf">slides</a>)
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at
+			<a href="https://www.mathematik.tu-darmstadt.de/algebra/forschung_algebra/forschungsseminare/grad_seminars/entr_seminar.en.jsp">ENTR Seminar</a>, <br/>online, 20.04.2022 <br/>
+			On the sup-norm of automorphic forms
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Co-organised a conference, <a href="https://www.math.uni-bonn.de/ag/azaf/fantasy2022/">Young Scholars in the Analytic Theory of Numbers and Automorphic Forms</a>, 28-29 March 2022, 
+			at the University of Bonn, for doctoral students and postdocs.
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at
+			<a href="https://www.talks.cam.ac.uk/show/index/11888">Cambridge Junior Algebra/Number Theory seminar</a>, <br/>online, 4.02.2022 <br/>
+			How loud is an arithmetic drum?
+		</li>
+	</ul>
+	<ul>
+		<li>
+			Talk at
+			<a href="http://math.univ-lille1.fr/d7/"> Laboratoire Paul Painlevé</a>, Seminaire d'Arithmétique & study group on L-functions <br/>Lille, 21.10.2021 <br/>
+			Estimates for binary quadratic forms and Appollonian circle packings
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			Studentischer Vertreter im Vorstand des Mathematischen Instituts, 2021-2022
+		</li>
+	</ul>	
+
+
+	<ul>
+		<li>
+			TA for <em>Einführung in die Algebra</em>, WS 21/22
+		</li>
+	</ul>
+
+	<ul>
+		<li>
+			<a href="https://youtu.be/U2woed8ATdk">Video</a> for 3blue1brown's Sommer of Math Exposition: <br/>
+			The video explains in an accessible way (high-school / first-year uni level) how roots of unity and cyclotomic polynomials can help us solve a problem about comparing weights of several objects simultaneously.  
+		</li>
+	</ul>
+
+<h2>Contact</h2>
+Radu Toma<br>
+Mathematisches Institut<br>
+Endenicher Allee 60<br>
+53115 Bonn, Germany<br>
+<br>
+Office: N1.009<br>
+E-Mail: toma (at) math.uni-bonn.de
